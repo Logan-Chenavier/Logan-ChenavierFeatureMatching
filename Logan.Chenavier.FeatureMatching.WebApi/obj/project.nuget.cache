@@ -1,15 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "QjRqmnU36G7TDkymAZi+gvJSDlOfX60Ac0BYWPgGy1SW298w9SGYUiebaRAJXTYppeOPDbMtHKefH5DCAl3Xsg==",
+  "dgSpecHash": "wDpNWJa/rvFpzuG0SZ6lGvEVsGb/0tEhHd1kpznXX3/VPZQF2PGALUIVoZXXpumrQ3TwSEeF3mLqLLnlCVozpA==",
   "success": true,
   "projectFilePath": "/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.WebApi/Logan.Chenavier.FeatureMatching.WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/loganchenavier/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "/Users/loganchenavier/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/opencvsharp4/4.5.5.20211231/opencvsharp4.4.5.5.20211231.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/opencvsharp4.extensions/4.5.5.20211231/opencvsharp4.extensions.4.5.5.20211231.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/opencvsharp4.runtime.osx.10.15-x64/4.5.5.20211231/opencvsharp4.runtime.osx.10.15-x64.4.5.5.20211231.nupkg.sha512",
     "/Users/loganchenavier/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/loganchenavier/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/Users/loganchenavier/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/Users/loganchenavier/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/Users/loganchenavier/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/system.drawing.common/5.0.3/system.drawing.common.5.0.3.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
