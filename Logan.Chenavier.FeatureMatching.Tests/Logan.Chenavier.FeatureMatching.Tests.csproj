@@ -33,6 +33,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Logan.Chenavier.FeatureMatching.Console\Logan.Chenavier.FeatureMatching.Console.csproj" />
       <ProjectReference Include="..\Logan.Chenavier.FeatureMatching\Logan.Chenavier.FeatureMatching.csproj" />
     </ItemGroup>
 

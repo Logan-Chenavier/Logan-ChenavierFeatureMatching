@@ -37,6 +37,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "OpenCvSharp4.Extensions": {
+              "target": "Package",
+              "version": "[4.5.5.20211231, )"
+            },
+            "OpenCvSharp4.runtime.osx.10.15-x64": {
+              "target": "Package",
+              "version": "[4.5.5.20211231, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

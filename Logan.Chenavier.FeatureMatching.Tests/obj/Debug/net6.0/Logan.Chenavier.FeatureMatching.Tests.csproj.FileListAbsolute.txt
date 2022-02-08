@@ -102,3 +102,16 @@
 /Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/obj/Debug/net6.0/ref/Logan.Chenavier.FeatureMatching.Tests.dll
 /Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/obj/Debug/net6.0/Logan.Chenavier.FeatureMatching.Tests.pdb
 /Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/obj/Debug/net6.0/Logan.Chenavier.FeatureMatching.Tests.genruntimeconfig.cache
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/OpenCvSharp.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/runtimes/osx-x64/native/libOpenCvSharpExtern.dylib
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/OpenCvSharp.Extensions.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/Logan.Chenavier.FeatureMatching.Console.deps.json
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/Logan.Chenavier.FeatureMatching.Console.runtimeconfig.json
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/Logan.Chenavier.FeatureMatching.Console
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/Logan.Chenavier.FeatureMatching.Console.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests/bin/Debug/net6.0/Logan.Chenavier.FeatureMatching.Console.pdb

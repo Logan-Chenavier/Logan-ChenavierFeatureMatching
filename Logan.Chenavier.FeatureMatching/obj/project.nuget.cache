@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "wvxgEPsXYNv5wfX6sbhCvXgMyUNJquX7Go3nQ3j4JbblvgCjI9+zPnPmJCGGcSoiqpoe3+QSJZYYwq30PB/B7A==",
+  "dgSpecHash": "wcGtaf9Sj2CoVQvtZ+spy5q8daGb7MbkM43iwIEbMcdtlvhkKqQKTuqq8pHkMWhF/z95MDXR9lZ2vvMxw4uYWQ==",
   "success": true,
   "projectFilePath": "/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/loganchenavier/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/opencvsharp4/4.5.5.20211231/opencvsharp4.4.5.5.20211231.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/opencvsharp4.extensions/4.5.5.20211231/opencvsharp4.extensions.4.5.5.20211231.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/opencvsharp4.runtime.osx.10.15-x64/4.5.5.20211231/opencvsharp4.runtime.osx.10.15-x64.4.5.5.20211231.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/system.drawing.common/5.0.3/system.drawing.common.5.0.3.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/loganchenavier/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

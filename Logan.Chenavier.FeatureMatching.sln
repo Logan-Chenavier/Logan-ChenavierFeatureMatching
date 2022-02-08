@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logan.Chenavier.FeatureMatc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logan.Chenavier.FeatureMatching.Tests", "Logan.Chenavier.FeatureMatching.Tests\Logan.Chenavier.FeatureMatching.Tests.csproj", "{961A0918-4BBB-462F-B566-B0EC43EDF707}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logan.Chenavier.FeatureMatching.Console", "Logan.Chenavier.FeatureMatching.Console\Logan.Chenavier.FeatureMatching.Console.csproj", "{BB2FE3D8-094B-47A5-96BD-7A658873F43B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{961A0918-4BBB-462F-B566-B0EC43EDF707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{961A0918-4BBB-462F-B566-B0EC43EDF707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{961A0918-4BBB-462F-B566-B0EC43EDF707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2FE3D8-094B-47A5-96BD-7A658873F43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2FE3D8-094B-47A5-96BD-7A658873F43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2FE3D8-094B-47A5-96BD-7A658873F43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2FE3D8-094B-47A5-96BD-7A658873F43B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
