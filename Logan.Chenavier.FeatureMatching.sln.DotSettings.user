@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b25d48a6_002D3fad_002D4ddf_002D832a_002D51f97b50056f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Logan.Chenavier.FeatureMatching.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests" Presentation="&amp;lt;Logan.Chenavier.FeatureMatching.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b50147a7_002Dbf5d_002D499b_002Da715_002D73477dd6c03f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Logan.Chenavier.FeatureMatching.Tests&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching.Tests" Presentation="&amp;lt;Logan.Chenavier.FeatureMatching.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

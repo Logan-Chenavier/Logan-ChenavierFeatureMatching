@@ -1,0 +1,12 @@
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/bin/Debug/net6.0/Logan.Chenavier.FeatureMatching.deps.json
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/bin/Debug/net6.0/Logan.Chenavier.FeatureMatching.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/bin/Debug/net6.0/ref/Logan.Chenavier.FeatureMatching.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/bin/Debug/net6.0/Logan.Chenavier.FeatureMatching.pdb
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/obj/Debug/net6.0/Logan.Chenavier.FeatureMatching.csproj.AssemblyReference.cache
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/obj/Debug/net6.0/Logan.Chenavier.FeatureMatching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/obj/Debug/net6.0/Logan.Chenavier.FeatureMatching.AssemblyInfoInputs.cache
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/obj/Debug/net6.0/Logan.Chenavier.FeatureMatching.AssemblyInfo.cs
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/obj/Debug/net6.0/Logan.Chenavier.FeatureMatching.csproj.CoreCompileInputs.cache
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/obj/Debug/net6.0/Logan.Chenavier.FeatureMatching.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/obj/Debug/net6.0/ref/Logan.Chenavier.FeatureMatching.dll
+/Users/loganchenavier/RiderProjects/Logan.Chenavier.FeatureMatching/Logan.Chenavier.FeatureMatching/obj/Debug/net6.0/Logan.Chenavier.FeatureMatching.pdb
